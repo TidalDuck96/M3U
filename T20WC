@@ -14,3 +14,8 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/wdqtgx
 #KODIPROP:inputstream.adaptive.license_key=ac38fc1a8c759f4d1a43163432e964e9:9a55742c7164153e9440811712faa806
 #EXTINF:-1 tvg-id="24" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/10/cricbuzz-logo.png" group-title="Mens T20 World Cup",Willow
 https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/glqjh8kskc/out/v1/45bfbb3a527944c295223376e0bb6dc0/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
+#EXTINF:-1 tvg-id="25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Star_Sports_1_HD.png/512px-Star_Sports_1_HD.png" group-title="Mens T20 World Cup",Star Sports HD1 Hindi
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd
